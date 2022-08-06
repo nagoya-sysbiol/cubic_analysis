@@ -9,7 +9,7 @@ With this pipeline you can
 - Extract the signals from CUBIC 3d image data 
 - Perform persistent homology to generate the persistent diagrams from the signals
 - Fit non-homogeneous Poission process (NHPP) model to extract the topological features from the signals
-- Evaluate the structural differences of vasculatures between samples using Wasserstein Kernel.
+- Evaluate the structural differences of vasculatures between samples using Sliced Wasserstein Kernel
 - Visualize and compare sample differences from a topological perspective using multi-dimensional scaling (MDS)
 
 This analysis pipeline is described in:
