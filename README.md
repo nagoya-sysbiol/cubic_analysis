@@ -6,12 +6,11 @@ This pipeline is a workflow for analyzing high-resolution CUBIC 3D image data an
 
 With this pipeline you can
 
-- Extract 
-- Perform RNA velocity and single-nuclei RNA-seq analsis
-- Quantify data from numerous technologies such as 10x, inDrops, and Dropseq.
-- Customize workflows for new technologies and protocols.
-- Process feature barcoding data such as CITE-seq, REAP-seq, MULTI-seq, Clicktags, and Perturb-seq.
-- Obtain QC reports from single-cell RNA-seq data
+- Extract the signals from CUBIC 3d image data 
+- Perform persistent homology to generate the persistent diagrams from the signals
+- Fit he non-homogeneous Poission process (NHPP) model to extract the topological features from the signals
+- Evaluate the structural differences of vasculatures between samples using Wasserstein Kernel.
+- Visualize and compare sample differences from a topological perspective using multi-dimensional scaling (MDS)
 
 This analysis pipeline is described in:
 
