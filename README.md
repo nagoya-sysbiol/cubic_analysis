@@ -4,7 +4,7 @@
 
 This pipeline is a workflow for analyzing high-resolution CUBIC 3D image data and involves: (1) extraction of signals from CUBIC 3D image data, (2) generation of 3D geometic features from the signals, and (3) evaluation and visualization of the structual differences of vasculatures between samples.
 
-With this pipeline you can
+With the following tutorials you can
 
 - Extract the signals from CUBIC 3d image data (Python code)
 - Perform persistent homology to generate the persistent diagrams from the signals ([R code](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/tutorials/ph.ipynb))
