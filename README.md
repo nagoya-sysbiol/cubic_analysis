@@ -7,7 +7,7 @@ This pipeline is a workflow for analyzing high-resolution CUBIC 3D image data an
 With this pipeline you can
 
 - Extract the signals from CUBIC 3d image data (Python code)
-- Perform persistent homology to generate the persistent diagrams from the signals (R code)
+- Perform persistent homology to generate the persistent diagrams from the signals ([R code](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/tutorials/ph.ipynb))
 - Fit non-homogeneous Poission process (NHPP) model to extract the topological features from the signals (R code)
 - Evaluate and visualize the structural differences of vasculatures between samples using sliced Wasserstein kernel and multi-dimensional scaling (MDS) ([R code](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/tutorials/swk.ipynb))
 
