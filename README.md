@@ -13,12 +13,13 @@ With the following tutorials you can
 
 The following R codes give reproducible results of Takahashi et al., Nat Commun (2022):"
 
-- [Figure 4b and Supplementary Figures 4a and 4B]()
-- [Figures 5b and 5c]()
-- [Figure 6d and Supplementary Figure 9]()
-- [Figure 6e]()
-- [FIgure 7g and Supplementary Figure 10b]()
-- [Supplementary Figure 7]()
+- [Figure 4b and Supplementary Figures 4a and 4B](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig4b_suppl_fig4a_suppl_fig4b.ipynb)
+- [Figures 5b and 5c](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig5b_fig5c.ipynb)
+- [Figure 6d and Supplementary Figure 9](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig6d_suppl_fig9.ipynb)
+- [Figure 6e](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig6e.ipynb)
+- [Figure 7g](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig6g.ipynb)
+- [Supplementary Figure 7](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig7.ipynb)
+- [Supplementary Figure 10](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig10.ipynb)
 
 This analysis pipeline is described in:
 
