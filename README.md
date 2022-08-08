@@ -11,7 +11,7 @@ With the following tutorials you can
 - Fit non-homogeneous Poission process (NHPP) model to extract the topological features from the signals (R code)
 - Evaluate and visualize the structural differences of vasculatures between samples using sliced Wasserstein kernel and multi-dimensional scaling (MDS) ([R code](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/tutorials/swk.ipynb))
 
-The following R codes give reproducible results of Takahashi et al., Nat Commun (2022):"
+The following R codes give reproducible results of Takahashi et al., Nat Commun (2022):
 
 - [Figure 4b and Supplementary Figures 4a and 4B](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig4b_suppl_fig4a_suppl_fig4b.ipynb)
 - [Figures 5b and 5c](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig5b_fig5c.ipynb)
