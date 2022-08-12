@@ -22,6 +22,7 @@ arma::vec ddlogis(arma::vec x){
   return -(t1-t2)/(den%den);
 }
 
+// [[Rcpp::export]]
 arma::vec d3logis(arma::vec x, arma::vec y, arma::vec z,
                   double bx, double by, double bz){
   return dlogistic(x,bx)%dlogistic(y,by)%dlogistic(y,bz);
