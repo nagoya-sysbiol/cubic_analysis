@@ -19,6 +19,7 @@ The following R codes give reproducible results of Takahashi et al., Nat Commun,
 - [Figure 6e](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig6e.ipynb)
 - [Figure 7g](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig7g.ipynb)
 - [Figure 7e and Supplementary Figure 10a](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig7e_suppl_fig10a.ipynb)
+- [Supplementary Figure 6](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig6.ipynb)
 - [Supplementary Figure 7](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig7.ipynb)
 - [Supplementary Figure 10b](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig10.ipynb)
 
