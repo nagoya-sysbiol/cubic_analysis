@@ -21,7 +21,7 @@ The following R codes give reproducible results of Takahashi et al., Nat Commun,
 - [Figure 7e and Supplementary Figure 10a](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/fig7e_suppl_fig10a.ipynb)
 - [Supplementary Figure 6](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig6.ipynb)
 - [Supplementary Figure 7](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig7.ipynb)
-- [Supplementary Figure 10b](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig10.ipynb)
+- [Supplementary Figure 10b](https://github.com/nagoya-sysbiol/cubic_analysis/blob/main/scripts/suppl_fig10b.ipynb)
 
 This analysis pipeline is described in:
 
